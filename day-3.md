@@ -29,7 +29,7 @@
 # BYTE :
     A byte is a unit of digital information used to store data in computers
 
-![[Screenshot 2026-08-20 112556 1.png]]
+![[Screenshot 2026-08-20 112556.png]]
 
 # SHORT:
        short is a primitive data type in java used to store small integer numbers
@@ -43,4 +43,4 @@
 
 # others
 
-![[Pasted image 20260820122349.png]]
+![[Pasted image 20260820145712.png]]s
